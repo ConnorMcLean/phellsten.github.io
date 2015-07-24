@@ -1,32 +1,32 @@
-var clicks = 0; //increment this by one every click
-var auto_clicks = 0; //automatically click once per second
-var cost = 1; //the cost of this should increase exponentially
+var food = 0;
+var foodpersecond = 0;
+var trapcost = 1;
 
+function update_total_food() {
+    var e = document.getElementById("food");
+    e.innerHTML = "Food: " + food;
+};
 
-function update_total_clicks() { //this function updates the number of clicks displayed       
-    var e = document.getElementById("total_clicks");
-    e.innerHTML = 'Clicks: ' + clicks;
+document.getElementById('scavenge').onclick = function()	{
+    food ++;
+    update_total_food()
+};
+
+document.getElementById('trap').onclick = function()	{
+	if (food < trapcost)	{
+		return alert("you can't afford that!");
+	}
+	foodpersecond ++;
+	food -= trapcost;
+	trapcost = trapcost + 3
+	var e = document.getElementById("trap");
+	e.innerHTML = "Set trap for " + trapcost + " food"
+	var e2 = document.getElementById("foodpersecond");
+	e2.innerHTML = "Food Income: " + foodpersecond;
+	update_total_food()
+	
 }
-
-document.getElementById("click").onclick =    function() {  
-    clicks++; 
-    update_total_clicks(); //updates the text
-};
-document.getElementById("buy_click").onclick =    function() {  
-    if (clicks < cost) {
-        return alert('need more clicks.');
-    }
-    auto_clicks++; 
-    clicks -= cost;
-    cost = Math.pow(2, auto_clicks);
-    var e = document.getElementById("clicks_per_second");
-    e.innerHTML = 'Clicks per second: ' + auto_clicks; 
-    var e2 = document.getElementById("buy_click");
-    e2.innerHTML = 'Buy an autoclick for ' + cost;
-    update_total_clicks();
-};
-
-setInterval(function () { 
-    clicks += auto_clicks;
-    update_total_clicks(); 
-}, 1000); //once per second use the auto clickers
+setInterval(function() {
+    food += foodpersecond;
+    update_total_food();
+},1000);
