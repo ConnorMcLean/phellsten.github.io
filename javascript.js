@@ -29,7 +29,7 @@ document.getElementById('trap').onclick = function()	{
 	}
 	foodpersecond ++;
 	food -= trapcost;
-	trapcost = trapcost + 3
+	trapcost = trapcost + 2 * trapcost
 	var e = document.getElementById("trap");
 	e.innerHTML = "Set trap for " + trapcost + " food"
 	var e2 = document.getElementById("foodpersecond");
