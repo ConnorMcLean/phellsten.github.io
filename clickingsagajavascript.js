@@ -1,7 +1,7 @@
 var progress = 0
 var pps = 1
 var goldpertick = 1
-var goldcount = 2
+var goldcount = 0
 
 
 var increasegoldproductionrateprice = 1
