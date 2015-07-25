@@ -4,11 +4,15 @@ table, th, td{
 }
 th, td{
 padding: 15px;
+
 }
 progress{
-background-color: #eee;
+border: 1px solid black;
 }
 progress[value]::-webkit-progress-value {
+  background-color: #eee;
+  border-radius: 2px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
   background-image:
 	   -webkit-linear-gradient(-45deg, 
 	                           transparent 33%, rgba(0, 0, 0, .1) 33%, 
@@ -18,12 +22,10 @@ progress[value]::-webkit-progress-value {
 	                           rgba(0, 0, 0, .25)),
 	   -webkit-linear-gradient(left, #09c, #f44);
 
-    border-radius: 2px; 
-    background-size: 35px 20px, 100% 100%, 100% 100%;
+  background-size: 55px 30px, 100% 100%, 100% 100%;
+  
 }
 progress[value] {
-  width: 250px;
-  height: 20px;
-}
-
+  width: 540px;
+  height: 30px;
 }
