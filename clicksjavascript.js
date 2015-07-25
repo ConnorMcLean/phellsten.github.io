@@ -27,9 +27,9 @@ document.getElementById('trap').onclick = function()	{
 	if (food < trapcost)	{
 		return ;
 	}
-	foodpersecond ++;
+	foodpersecond = foodpersecond + foodpersecond*2 + 1;
 	food -= trapcost;
-	trapcost = trapcost + 2 * trapcost
+	trapcost = trapcost + 4 * trapcost * 2;
 	var e = document.getElementById("trap");
 	e.innerHTML = "Set trap for " + trapcost + " food"
 	var e2 = document.getElementById("foodpersecond");
@@ -56,4 +56,4 @@ setInterval(function() {
     update_total_food();
 	gold += goldpersecond;
 	update_total_gold();
-},1);
+},1000);
