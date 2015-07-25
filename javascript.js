@@ -56,4 +56,4 @@ setInterval(function() {
     update_total_food();
 	gold += goldpersecond;
 	update_total_gold();
-},1000);
+},1);
