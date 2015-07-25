@@ -1,7 +1,7 @@
 var progress = 0
 var pps = 1
 var goldpertick = 1
-var goldcount = 0
+var goldcount = 2
 
 
 var increasegoldproductionrateprice = 1
@@ -27,11 +27,11 @@ document.getElementById('speed').onclick = function()	{
 	if (goldcount > increasegoldproductionrateprice - 1)	{
 		goldcount -= increasegoldproductionrateprice
 		golddisplay.innerHTML = "Gold: " + goldcount;
-		increasegoldproductionrateprice = Math.ceil(increasegoldproductionrateprice = Math.pow(pps,2) * 0.2)
+		increasegoldproductionrateprice = Math.ceil(increasegoldproductionrateprice = Math.pow(pps,2) * 0.4)
 		
 		
 		document.getElementById('speed').innerHTML = "Increase Production Rate for " + increasegoldproductionrateprice + " gold"
-		pps += 2;
+		pps += 1;
 	}
 	
 }
@@ -40,7 +40,7 @@ document.getElementById('amount').onclick = function()	{
 		goldcount -= increasegoldamountrateprice
 		golddisplay.innerHTML = "Gold: " + goldcount;
 		increasegoldamountrateprice += increasegoldamountrateprice * 2
-		goldpertick += 1
+		goldpertick = goldpertick * 2
 		document.getElementById('amount').innerHTML = "Increase Amount Found for " + increasegoldamountrateprice + " gold";
 	}
 }
