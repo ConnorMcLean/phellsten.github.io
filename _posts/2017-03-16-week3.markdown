@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Week 3"
-subtitle:   "test testtesttesttesttesttesttesttesttesttest"
-date:       2017-03-09
+subtitle:   "Ideation"
+date:       2017-03-16
 author:     "Road to Nowhere"
 header-img: "img/post-bg-01.jpg"
 ---

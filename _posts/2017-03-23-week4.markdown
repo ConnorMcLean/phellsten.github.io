@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "Week 2"
-subtitle:   "test testtesttesttesttesttesttesttesttesttest"
-date:       2017-03-02
+title:      "Week 4"
+subtitle:   "Design"
+date:       2017-03-23
 author:     "Road to Nowhere"
-header-img: "img/post-bg-01.jpg"
+header-img: "img/post-bg-03.jpg"
 ---
  
 The aim of our project is to explore and attempt to help with the issues of public transport in Melbourne.
