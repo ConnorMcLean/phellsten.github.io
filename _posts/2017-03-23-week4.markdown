@@ -9,13 +9,13 @@ header-img: "img/post-bg-03.jpg"
 
 Mood Board
 
-We aim to envoke feelings of confidence, success and happiness in our design, to help commuters feel that they don't have to worry about getting to their destination on time, and that they can relax.
-
-To fit this mood we chose a bright and colourful colour-scheme and picked images and fonts that felt light-hearted and uplifting.
+We aim to envoke feelings of confidence, success and happiness in our design, to help commuters feel that they don't have to worry about not getting to their destination on time, and that they can relax.
 
 <img src="{{ site.baseurl }}/images/blog/week4/Moodboard-1.png" alt="Image Test">
 
 Colour Scheme
+
+To fit this mood we chose a bright and colourful colour-scheme and picked images and fonts that felt light-hearted and uplifting.
 
 <img src="{{ site.baseurl }}/images/blog/week4/colour2.PNG" alt="Image Test">
 
@@ -27,6 +27,8 @@ Wireframe
 
 In building our wireframe, we wanted to make it easy for users to access some important information at a glance, but also not to clutter the main page with too much detail.
 
+We wanted new users to be able to get a brief idea of the sites purpose and to entice them to sign up and learn more.
+
 <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe.PNG" alt="Image Test">
 
 <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe3.PNG" alt="Image Test">
@@ -36,7 +38,9 @@ In building our wireframe, we wanted to make it easy for users to access some im
 
 Mockup
 
-We chose a background for our mockup that fit the theme of public transport, and also matched our colour palette. The red title is eye-catching and draws the readers attention.
+We chose a background for our mockup that fit the theme of public transport, and also matched our colour palette. The red title is eye-catching and draws the readers attention. 
+
+The background was made slightly darker in order to clearly see the title and text.
 
 <img src="{{ site.baseurl }}/images/blog/week4/mockup2.PNG" alt="Image Test">
 
