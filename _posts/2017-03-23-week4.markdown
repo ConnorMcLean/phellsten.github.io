@@ -11,9 +11,7 @@ Mood Board
 
 Colour Scheme
 
-<a href="#">
-    <img src="{{ site.baseurl }}/images/blog/week4/colour2.PNG" alt="Image Test">
-</a>
+<img src="{{ site.baseurl }}/images/blog/week4/colour2.PNG" alt="Image Test">
 
 Fonts
 
