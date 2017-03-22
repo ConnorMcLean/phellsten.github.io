@@ -15,28 +15,19 @@ Colour Scheme
 
 Fonts
 
-<a href="#">
-    <img src="{{ site.baseurl }}/images/blog/week4/fonts.PNG" alt="Image Test">
-</a>
+<img src="{{ site.baseurl }}/images/blog/week4/fonts.PNG" alt="Image Test">
 
 Wireframe
-<a href="#">
-    <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe.PNG" alt="Image Test">
-</a>
 
-<a href="#">
-    <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe3.PNG" alt="Image Test">
-</a>
+<img src="{{ site.baseurl }}/images/blog/week4/basicwireframe.PNG" alt="Image Test">
 
-<a href="#">
-    <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe4.PNG" alt="Image Test">
-</a>
+<img src="{{ site.baseurl }}/images/blog/week4/basicwireframe3.PNG" alt="Image Test">
 
+<img src="{{ site.baseurl }}/images/blog/week4/basicwireframe4.PNG" alt="Image Test">
 
 
 Mockup
 
-<a href="#">
-    <img src="{{ site.baseurl }}/images/blog/week4/mockup2.PNG" alt="Image Test">
-</a>
+<img src="{{ site.baseurl }}/images/blog/week4/mockup2.PNG" alt="Image Test">
+
 
