@@ -17,7 +17,8 @@ To fit this mood we chose a bright and colourful colour-scheme and picked images
 
 Colour Scheme
 
-After experimenting with multiple darker colour chemes, we came to the conclusion we required a happier more uplifting tone,  one which didn't leave the user with a lingering sense of concern, post having possibly been notified about large delays.
+After experimenting with multiple darker colour chemes, we came to the conclusion we required a happier more uplifting tone,  one which didn't leave the user with a lingering sense of concern, post having possibly been notified about large delays. 
+The basis for our colour choice stemmed from what people first think of when you mention public transport in Melbourne. Hence the choice of yellow and blue.
 
 <img src="{{ site.baseurl }}/images/blog/week4/colour2.PNG" alt="Image Test">
 
