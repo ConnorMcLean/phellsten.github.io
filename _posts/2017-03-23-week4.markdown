@@ -9,19 +9,32 @@ header-img: "img/post-bg-03.jpg"
 
 Mood Board
 
-
-
-Wireframe
-
-<a href="#">
-    <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe3.PNG" alt="Image Test">
-</a>
-
 Colour Scheme
 
 <a href="#">
     <img src="{{ site.baseurl }}/images/blog/week4/colour2.PNG" alt="Image Test">
 </a>
+
+Fonts
+
+<a href="#">
+    <img src="{{ site.baseurl }}/images/blog/week4/fonts.PNG" alt="Image Test">
+</a>
+
+Wireframe
+<a href="#">
+    <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe.PNG" alt="Image Test">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe3.PNG" alt="Image Test">
+</a>
+
+<a href="#">
+    <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe4.PNG" alt="Image Test">
+</a>
+
+
 
 Mockup
 
