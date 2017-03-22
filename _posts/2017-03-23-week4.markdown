@@ -9,7 +9,7 @@ header-img: "img/post-bg-03.jpg"
 
 Mood Board
 
-<img src="{{ site.baseurl }}/images/blog/week4/mood.png" alt="Image Test">
+<img src="{{ site.baseurl }}/images/blog/week4/Moodboard.png" alt="Image Test">
 
 Colour Scheme
 
