@@ -6,4 +6,26 @@ date:       2017-03-23
 author:     "Road to Nowhere"
 header-img: "img/post-bg-03.jpg"
 ---
- 
+
+Mood Board
+
+
+
+Wireframe
+
+<a href="#">
+    <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe3.PNG" alt="Image Test">
+</a>
+
+Colour Scheme
+
+<a href="#">
+    <img src="{{ site.baseurl }}/images/blog/week4/colour2.PNG" alt="Image Test">
+</a>
+
+Mockup
+
+<a href="#">
+    <img src="{{ site.baseurl }}/images/blog/week4/mockup2.PNG" alt="Image Test">
+</a>
+
