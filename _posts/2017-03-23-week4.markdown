@@ -9,6 +9,10 @@ header-img: "img/post-bg-03.jpg"
 
 Mood Board
 
+We aim to envoke feelings of confidence, success and happiness in our design, to help commuters feel that they don't have to worry about getting to their destination on time, and that they can relax.
+
+To fit this mood we chose a bright and colourful colour-scheme and picked images and fonts that felt light-hearted and uplifting.
+
 <img src="{{ site.baseurl }}/images/blog/week4/Moodboard-1.png" alt="Image Test">
 
 Colour Scheme
@@ -21,6 +25,8 @@ Fonts
 
 Wireframe
 
+In building our wireframe, we wanted to make it easy for users to access some important information at a glance, but also not to clutter the main page with too much detail.
+
 <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe.PNG" alt="Image Test">
 
 <img src="{{ site.baseurl }}/images/blog/week4/basicwireframe3.PNG" alt="Image Test">
@@ -29,6 +35,8 @@ Wireframe
 
 
 Mockup
+
+We chose a background for our mockup that fit the theme of public transport, and also matched our colour palette. The red title is eye-catching and draws the readers attention.
 
 <img src="{{ site.baseurl }}/images/blog/week4/mockup2.PNG" alt="Image Test">
 
