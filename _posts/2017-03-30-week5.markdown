@@ -41,6 +41,15 @@ HTML:
 # Subscription page mockup:
 <img src="{{ site.baseurl }}/images/blog/Week5/Subscriptions%20mockup.jpg" alt="Image Test">
 
+# SNIPPETS OF MOCKUP:
+We used bootstrap to help implement the design of the website, using classes that we can apply CSS selectors to in order to manipulate the look.
+<img src="{{ site.baseurl }}/images/blog/Week5/navbarcode.PNG" alt="Image Test">
+
+We used an import statement to our css to get required fonts from google fonts.
+<img src="{{ site.baseurl }}/images/blog/Week5/cssfonts.PNG" alt="Image Test">
+<img src="{{ site.baseurl }}/images/blog/Week5/cssh1.PNG" alt="Image Test">
+
+
 # MORE COMMENTS ON MOCKUPS
 
 We have a couple mockups above for other possible pages our site may contain, however these are still a work in progress and are in no way final.
