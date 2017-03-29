@@ -49,6 +49,8 @@ We used an import statement to our css to get required fonts from google fonts.
 <img src="{{ site.baseurl }}/images/blog/Week5/cssfonts.PNG" alt="Image Test">
 <img src="{{ site.baseurl }}/images/blog/Week5/cssh1.PNG" alt="Image Test">
 
+By using a CDN, we can obtain the required jQuery and Bootstrap code without storing it on the website.
+<img src="{{ site.baseurl }}/images/blog/Week5/cdn.PNG" alt="Image Test">
 
 # MORE COMMENTS ON MOCKUPS
 
