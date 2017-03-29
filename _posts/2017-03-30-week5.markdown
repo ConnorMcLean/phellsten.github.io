@@ -7,7 +7,7 @@ author:     "Road to Nowhere"
 header-img: "img/post-bg-04.jpg"
 ---
 
-# STATIC WEBPAGE
+# STATIC WEBPAGES
 
 This week we had to create a static webpage for our transport site. We have created several static pages including the Home, About, Interactive Map, Login and Sign Up pages. We also have a few other tentative powerpoint mockups of additional pages the site contains. 
 
@@ -21,25 +21,24 @@ The page is pretty self-explanatory in its expected implementation, with Home re
 
 The continue button would link to another page where users can report various things such as delays and warnings to be displayed to other users of the site.
 
+# About page:
 <img src="{{ site.baseurl }}/images/blog/Week5/about2.PNG" alt="Image Test">
 
 # WEBPAGE LINK
 
 Link to webpage: <a href="{{ site.baseurl }}/home-static.html">Road to Nowhere Static Webpages</a>
 
-#Sign-up page:
+# Sign-up page:
 Mockup:
 <img src="{{ site.baseurl }}/images/blog/Week5/Login%20Signup%20page.jpg" alt="Image Test">
 HTML:
 <img src="{{ site.baseurl }}/images/blog/Week5/signup.PNG" alt="Image Test">
 
 
-Map page mockup
-
+# Map page mockup:
 <img src="{{ site.baseurl }}/images/blog/Week5/Map%20mockup.jpg" alt="Image Test">
 
-Subscription page mockup
-
+# Subscription page mockup:
 <img src="{{ site.baseurl }}/images/blog/Week5/Subscriptions%20mockup.jpg" alt="Image Test">
 
 # MORE COMMENTS ON MOCKUPS
