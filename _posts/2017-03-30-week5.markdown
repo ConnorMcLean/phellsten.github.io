@@ -7,6 +7,8 @@ author:     "Road to Nowhere"
 header-img: "img/post-bg-04.jpg"
 ---
 
+# STATIC WEBPAGE
+
 This week we had to create a static webpage for our transport site. We have created several static pages including the Home, About, Interactive Map, Login and Sign Up pages. We also have a few other tentative powerpoint mockups of additional pages the site contains. 
 
 <img src="{{ site.baseurl }}/images/blog/Week5/Screenshot.PNG" alt="Image Test">
@@ -22,7 +24,7 @@ The continue button would link to another page where users can report various th
 
 # WEBPAGE LINK
 
-Link to webpage : https://phellsten.github.io/home-static.html
+Link to webpage: <a href="{{ site.baseurl }}/home-static.html">Road to Nowhere Static Webpages</a>
 
 Sign-up page mockup
 
