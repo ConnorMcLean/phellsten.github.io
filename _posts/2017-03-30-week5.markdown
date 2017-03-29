@@ -1,0 +1,9 @@
+---
+layout:     post
+title:      "Week 5"
+subtitle:   "Static Webpage"
+date:       2017-03-30
+author:     "Road to Nowhere"
+header-img: "img/post-bg-04.jpg"
+---
+
