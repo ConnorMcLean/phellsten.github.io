@@ -12,7 +12,10 @@ header-img: "img/post-bg-04.jpg"
 This week we had to create a static webpage for our transport site. We have created several static pages including the Home, About, Interactive Map, Login and Sign Up pages. We also have a few other tentative powerpoint mockups of additional pages the site contains. 
 
 # Home page:
+Mockup:
+<img src="{{ site.baseurl }}/images/blog/Week5/mockup2.PNG" alt="Image Test">
 
+HTML:
 <img src="{{ site.baseurl }}/images/blog/Week5/Screenshot.PNG" alt="Image Test">
 
 As shown in the mock-up from last week, our static home page contains a navigation bar as well as a notification system for the major delays on certain lines, however there is only a couple of notifications at the current moment as placeholders. We decided to stay with our original font choice as it helps convey the convenience and inevitable calmness of knowing whats going on around you relative to transport issues.
@@ -22,6 +25,10 @@ The page is pretty self-explanatory in its expected implementation, with Home re
 The continue button would link to another page where users can report various things such as delays and warnings to be displayed to other users of the site.
 
 # About page:
+Mockup:
+<img src="{{ site.baseurl }}/images/blog/Week5/aboutmockup.PNG" alt="Image Test">
+
+HTML:
 <img src="{{ site.baseurl }}/images/blog/Week5/about2.PNG" alt="Image Test">
 
 # WEBPAGE LINK
