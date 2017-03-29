@@ -41,7 +41,7 @@ HTML:
 # Subscription page mockup:
 <img src="{{ site.baseurl }}/images/blog/Week5/Subscriptions%20mockup.jpg" alt="Image Test">
 
-# SNIPPETS OF MOCKUP:
+# SNIPPETS OF MARKUP:
 We used bootstrap to help implement the design of the website, using classes that we can apply CSS selectors to in order to manipulate the look.
 <img src="{{ site.baseurl }}/images/blog/Week5/navbarcode.PNG" alt="Image Test">
 
