@@ -23,7 +23,7 @@ Link to New site: ...
 
 TO obtain the data for our issue and map pages, we utilised data from the PTV API through JSON. Then through usage of javascript the data is iteratievely added to their respective categories within the pages. Such as shown below;
 
-<img src="{{ site.baseurl }}/images/blog/Week6/JSONJS.png" alt="Image Test">
+![JSON](https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/Week6/JSONJS.png)
 
 # Maps
 
