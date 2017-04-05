@@ -18,11 +18,11 @@ For this week we were required to demonstrate improve upon our basic Static webp
 
 All the pages referenced in the navigation bar are linked to their respective pages, along with the report a delay button on the home page which takes you to a seperate form to fill out, which would allow end users to contribute data to the page in some way.
 
-Link to New site: https://phellsten.github.io/website/index.html
+Link to New site: <a href="https://phellsten.github.io/website/index.html">https://phellsten.github.io/website/index.html</a>
 
 # JSON
 
-TO obtain the data for our issue and map pages, we utilised data from the PTV API through JSON. Then through usage of javascript the data is iteratievely added to their respective categories within the pages. Such as shown below;
+TO obtain the data for our issue and map pages, we utilised data from the PTV API through JSON. Then through usage of Javascript the data is iteratievely added to their respective categories within the pages. Such as shown below;
 
 <img src="{{ site.baseurl }}/images/blog/Week6/JSONJS.png" alt="JSON">
 
@@ -41,4 +41,6 @@ This spatial data is also used by our JavaScript functions to populate the colla
 
 We used a a global styles.css which is present in all our webpages, before becoming more specific with them. Utilising these page specific CSS files to manipulate backgrounds and changing Page specific items, such as the padding and assorted colours.
 
-For future improvement of our webpage, we intend to improve the map functionality and the User submitted delay experience to be slightly more specific.
+For future improvement of our webpage, we intend to improve the map functionality and the User submitted delay experience to be slightly more specific, and to have additional pages viewable by the user upon logging in, where they can subscribe to certain train/bus lines.
+
+We also aim to further improve the Issues page, in which users can filter and search through lines, additionally we plan to integrate the user reporting data into this list.
