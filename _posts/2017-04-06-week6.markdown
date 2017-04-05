@@ -7,16 +7,28 @@ author:     "Road to Nowhere"
 header-img: "img/post-bg-05.jpg"
 ---
 
-# Week 6
+# Dynamic Webpage
 
-Intro
+For this week we were required to demonstrate improve upon our basic Static webpage we showed Last week and make it dynamic. This is our page from last week if you remember.
 
-Talk about same basic template CSS
+# Old:
+<img src="{{ site.baseurl }}/images/blog/Week5/Screenshot.PNG" alt="Image Test">
 
-Uses ptv Api or whatevs to through JSON to obtain delay data for issue page
+And this is our home page as of today;
 
-Delays page is user input
+# New:
 
-Maps
+<img src="{{ site.baseurl }}/images/blog/Week5/NewHome6.jpg" alt="Image Test">
 
-Further iterations
+INSERT LINK TO NEW SITE
+
+TO obtain the data for our issue and map pages, we utilised data from the PTV API through JSON. THen using JavaScript we iterativcely placed all the data in their respective tables, resulting in the content on their respective pages.
+
+<img src="{{ site.baseurl }}/images/blog/Week5/JSONJS.png" alt="Image Test">
+
+Maps CAMERON I HAVE NO IDEA WHAT YOU DID PLS HALP MapAPI thins?
+
+We used a a global styles.css which is present in all our webpages, before becoming more speciofic with them. Utilising these page specific CSS files to manipulate backgrounds and changing Page specific items, such as the padding and assorted colours.
+
+
+For future improvement of out webpage, we intend to improve the map functionality and the User submitted delay experience to be slightly more specific.
