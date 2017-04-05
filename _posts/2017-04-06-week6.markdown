@@ -31,7 +31,7 @@ Maps CAMERON I HAVE NO IDEA WHAT YOU DID PLS HALP MapAPI thins?
 
 For the maps shown, we used googles mapping API to...
 
-INSERT Scrreeenshot of maps
+![MapsJS](https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/Week6/MapsJS.png)
 
 We used a a global styles.css which is present in all our webpages, before becoming more speciofic with them. Utilising these page specific CSS files to manipulate backgrounds and changing Page specific items, such as the padding and assorted colours.
 
