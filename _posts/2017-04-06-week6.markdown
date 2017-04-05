@@ -15,8 +15,6 @@ For this week we were required to demonstrate improve upon our basic Static webp
 
 ![Home page](images/blog/Week6/NewHome6.jpg?raw=true)
 
-<img src="{{ site.baseurl }}/images/blog/Week6/NewHome6.jpg" alt="Image Test">
-
 All the pages referenced in the navigation bar are linked to their respective pages, along with the report a delay button on the home page which takes you to a seperate form to fill out, which would allow end users to contribute data to the page in some way.
 
 Link to New site: ...
