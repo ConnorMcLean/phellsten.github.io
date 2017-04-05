@@ -9,7 +9,7 @@ header-img: "img/post-bg-05.jpg"
 
 # Dynamic Webpage
 
-For this week we were required to demonstrate improve upon our basic Static webpage we showed Last week and make it dynamic. This is our page from last week if you remember.
+For this week we were required to demonstrate improve upon our basic Static webpage we showed Last week and make it dynamic. This is our page from last week if you remember, we made a few improvements to the overall style of it along with making it a dynamic webpage as required.
 
 # Old:
 <img src="{{ site.baseurl }}/images/blog/Week5/Screenshot.PNG" alt="Image Test">
