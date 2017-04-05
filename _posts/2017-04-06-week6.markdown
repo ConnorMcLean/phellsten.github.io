@@ -9,26 +9,32 @@ header-img: "img/post-bg-05.jpg"
 
 # Dynamic Webpage
 
-For this week we were required to demonstrate improve upon our basic Static webpage we showed Last week and make it dynamic. This is our page from last week if you remember, we made a few improvements to the overall style of it along with making it a dynamic webpage as required.
+For this week we were required to demonstrate improve upon our basic Static webpage we showed Last week and make it dynamic. This is our page from last week if you remember with a couple of improvements.
 
-# Old:
-<img src="{{ site.baseurl }}/images/blog/Week5/Screenshot.PNG" alt="Image Test">
+# Home:
 
-And this is our home page as of today;
-
-# New:
+![Home page](images/blog/Week6/NewHome6.jpg?raw=true)
 
 <img src="{{ site.baseurl }}/images/blog/Week6/NewHome6.jpg" alt="Image Test">
 
-INSERT LINK TO NEW SITE
+All the pages referenced in the navigation bar are linked to their respective pages, along with the report a delay button on the home page which takes you to a seperate form to fill out, which would allow end users to contribute data to the page in some way.
 
-TO obtain the data for our issue and map pages, we utilised data from the PTV API through JSON. THen using JavaScript we iterativcely placed all the data in their respective tables, resulting in the content on their respective pages.
+Link to New site: ...
+
+# JSON
+
+TO obtain the data for our issue and map pages, we utilised data from the PTV API through JSON. Then through usage of javascript the data is iteratievely added to their respective categories within the pages. Such as shown below;
 
 <img src="{{ site.baseurl }}/images/blog/Week6/JSONJS.png" alt="Image Test">
 
+# Maps
+
 Maps CAMERON I HAVE NO IDEA WHAT YOU DID PLS HALP MapAPI thins?
 
-We used a a global styles.css which is present in all our webpages, before becoming more speciofic with them. Utilising these page specific CSS files to manipulate backgrounds and changing Page specific items, such as the padding and assorted colours.
+For the maps shown, we used googles mapping API to...
 
+INSERT Scrreeenshot of maps
+
+We used a a global styles.css which is present in all our webpages, before becoming more speciofic with them. Utilising these page specific CSS files to manipulate backgrounds and changing Page specific items, such as the padding and assorted colours.
 
 For future improvement of out webpage, we intend to improve the map functionality and the User submitted delay experience to be slightly more specific.
