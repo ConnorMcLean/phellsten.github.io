@@ -18,13 +18,13 @@ And this is our home page as of today;
 
 # New:
 
-<img src="{{ site.baseurl }}/images/blog/Week5/NewHome6.jpg" alt="Image Test">
+<img src="{{ site.baseurl }}/images/blog/Week6/NewHome6.jpg" alt="Image Test">
 
 INSERT LINK TO NEW SITE
 
 TO obtain the data for our issue and map pages, we utilised data from the PTV API through JSON. THen using JavaScript we iterativcely placed all the data in their respective tables, resulting in the content on their respective pages.
 
-<img src="{{ site.baseurl }}/images/blog/Week5/JSONJS.png" alt="Image Test">
+<img src="{{ site.baseurl }}/images/blog/Week6/JSONJS.png" alt="Image Test">
 
 Maps CAMERON I HAVE NO IDEA WHAT YOU DID PLS HALP MapAPI thins?
 
