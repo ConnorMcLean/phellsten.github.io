@@ -1,13 +1,13 @@
 ---
 layout:     post
-title:      "Week 5"
-subtitle:   "Static Webpage"
-date:       2017-03-30
+title:      "Week 6"
+subtitle:   "Interactive Webpage"
+date:       2017-04-06
 author:     "Road to Nowhere"
-header-img: "img/post-bg-04.jpg"
+header-img: "img/post-bg-05.jpg"
 ---
 
-# Blog post for week 6
+# Week 6
 
 Intro
 
