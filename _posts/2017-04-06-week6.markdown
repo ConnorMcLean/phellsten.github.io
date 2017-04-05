@@ -29,13 +29,16 @@ TO obtain the data for our issue and map pages, we utilised data from the PTV AP
 
 # Maps
 
-Maps CAMERON I HAVE NO IDEA WHAT YOU DID PLS HALP MapAPI thins?
-
-For the maps shown, we used googles mapping API to...
+The interactive maps were implemented using the Javascript library Leaflet for creating and designing the map visualisations. The underlying tile map design being used is provided by the MapBox API, with the map vector data courtesy of OpenStreetMap.
 
 <img src="{{ site.baseurl }}/images/blog/Week6/MapsJS.png" alt="MapsJS">
 
+Overlaying the base map layer is a vector line visualisation of the routes for Victoria's Tram, Train, Metro Bus, and Regional Bus routes, with each transportation type given its own filterable layer. The spatial data used for this was downloaded from the Victorian Government Data Directory, as Shape files. This required converting these files to the GeoJSON format for it to be usable by Leaflet, in addition to changing the geographic coordinate system of the coordinate data. 
 
-We used a a global styles.css which is present in all our webpages, before becoming more speciofic with them. Utilising these page specific CSS files to manipulate backgrounds and changing Page specific items, such as the padding and assorted colours.
+This spatial data is also used by our JavaScript functions to populate the collapsible list of transport routes adjacent to the interactive map, that will, hopefully, be used later to allow users to actively filter transport routes on the interactive map.
 
-For future improvement of out webpage, we intend to improve the map functionality and the User submitted delay experience to be slightly more specific.
+
+
+We used a a global styles.css which is present in all our webpages, before becoming more specific with them. Utilising these page specific CSS files to manipulate backgrounds and changing Page specific items, such as the padding and assorted colours.
+
+For future improvement of our webpage, we intend to improve the map functionality and the User submitted delay experience to be slightly more specific.
