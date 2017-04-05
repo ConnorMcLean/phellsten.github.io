@@ -17,7 +17,7 @@ For this week we were required to demonstrate improve upon our basic Static webp
 
 All the pages referenced in the navigation bar are linked to their respective pages, along with the report a delay button on the home page which takes you to a seperate form to fill out, which would allow end users to contribute data to the page in some way.
 
-Link to New site: ...
+Link to New site: <a href="{{ site.baseurl }}website/index.html">Road to Nowhere Interactive Webpages</a>
 
 # JSON
 
