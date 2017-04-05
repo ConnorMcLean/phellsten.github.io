@@ -13,7 +13,8 @@ For this week we were required to demonstrate improve upon our basic Static webp
 
 # Home:
 
-![Home page](https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/Week6/NewHome6.jpg)
+<img src="{{ site.baseurl }}/images/blog/Week6/NewHome6.jpg" alt="Home Page">
+
 
 All the pages referenced in the navigation bar are linked to their respective pages, along with the report a delay button on the home page which takes you to a seperate form to fill out, which would allow end users to contribute data to the page in some way.
 
@@ -23,7 +24,8 @@ Link to New site: https://phellsten.github.io/website/index.html
 
 TO obtain the data for our issue and map pages, we utilised data from the PTV API through JSON. Then through usage of javascript the data is iteratievely added to their respective categories within the pages. Such as shown below;
 
-![JSON](https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/Week6/JSONJS.png)
+<img src="{{ site.baseurl }}/images/blog/Week6/JSONJS.png" alt="JSON">
+
 
 # Maps
 
@@ -31,7 +33,8 @@ Maps CAMERON I HAVE NO IDEA WHAT YOU DID PLS HALP MapAPI thins?
 
 For the maps shown, we used googles mapping API to...
 
-![MapsJS](https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/Week6/MapsJS.png)
+<img src="{{ site.baseurl }}/images/blog/Week6/MapsJS.png" alt="MapsJS">
+
 
 We used a a global styles.css which is present in all our webpages, before becoming more speciofic with them. Utilising these page specific CSS files to manipulate backgrounds and changing Page specific items, such as the padding and assorted colours.
 
