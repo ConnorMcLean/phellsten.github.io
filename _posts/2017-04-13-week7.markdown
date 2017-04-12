@@ -9,7 +9,7 @@ header-img: "img/post-bg-06.jpg"
 
 # Proposed interactions
 
-Below is a diagram for our website which contains the proposed interactions within the site. As you saw last week we already use the public transport victoria data API to fill in our tables along with the map APi. However this week the interactions we're proposing are more on the database interaction side of our website.
+Below is a diagram for our website which contains the proposed interactions within the site. As you saw last week we already use the public transport victoria data API to fill in our tables along with the map API. However this week the interactions we're proposing are more on the database interaction side of our website.
 
 <img src="{{ site.baseurl }}/images/blog/Week7/UndelayArchitecture.png" alt="Proposed architecture">
 
@@ -18,18 +18,20 @@ Note the proposed interactions with the Database above, such as the addition of 
 
 # Database information
 
-We're going to use MongoDB for our database which is intended to be used to store all of the user submitted data. Such as the reports from the delay reporting page, the login user details given upon signup and the bookmarking system utilised. In addition to this data the Map page also pulls delay  and route informaiton from the database to be overlayed onto the map
+We're going to use MongoDB for our database which is intended to be used to store all of the user submitted data. Such as the reports from the delay reporting page, the login user details given upon signup and the bookmarking system utilised. In addition to this data the Map page also pulls delay and route informaiton from the database to be overlayed onto the map.
 
-# Node and express things?
+# Node and express
+
+We have implemented a basic Node application that uses MongoDB to store user submitted data, which is viewable at http://undelay.me:3001/delay .
 
 # Timeline of Project Tasks:
 
 Timeline of Project Tasks:
 
-- Implement Node or similar server service? - Week 8
+- Implement Node or similar server service - Week 8
 - Database - Implement MongoDB -  Week 8
 - Issue submission form - with connection to database - Week 8/9
-- Login/User/Account Stuff - Week 9
+- Login/User/Account - Week 9
 - Displaying Issues (Table/Map) - Week 10/11
 - User Subscription - Week 11 (If time permits)
 - Notification Service - Week 11 (If time permits)
@@ -39,10 +41,10 @@ Timeline of Project Tasks:
 
 # Division of Labour:
 
-- Implement Node or similar server service? - Week 8 - Everyone
+- Implement Node or similar server service - Week 8 - Everyone
 - Database - Implement MongoDB -  Week 8 - Everyone
 - Issue submission form - with connection to database - Week 8/9 - Paul & Sam
-- Login/User/Account Stuff - Week 9 (Connor, Rory)
+- Login/User/Account - Week 9 (Connor, Rory)
 - Displaying Issues (Table/Map) - Week 10/11 - Paul & Sam (Table) Cameron (Map)
 - User Subscription - Week 11 (If time permits) (Connor, Rory)
 - Notification Service - Week 11 (If time permits) (Connor, Rory)
