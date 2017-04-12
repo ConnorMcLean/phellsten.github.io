@@ -12,7 +12,7 @@ Basic Template
 # Proposed interactions with the site
 
 
-<img src="{{ site.baseurl }}/images/blog/Week7/UndelayArchitecture.png" alt="Proposed architecture">
+<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/Week7/UndelayArchitecture.png" alt="Proposed architecture">
 
 # Database info
 
