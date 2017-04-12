@@ -7,4 +7,16 @@ author:     "Road to Nowhere"
 header-img: "img/post-bg-05.jpg"
 ---
 
-Placeholder
+Basic Template
+
+# Proposed interactions with the site
+
+
+
+# Database info
+
+possibly a databse model?
+
+# Node and express things?
+
+#
