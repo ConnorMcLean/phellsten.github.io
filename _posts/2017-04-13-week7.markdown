@@ -9,14 +9,17 @@ header-img: "img/post-bg-05.jpg"
 
 Basic Template
 
-# Proposed interactions with the site
+# Proposed interactions
 
+Below is a diagram for our website which contains the proposed interactions within the site. As you saw last week we already use the public transport victoria data API to fill in our tables along with the map APi. However this week the interactions we're proposing are more on the database interaction side of our website.
 
 <img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/Week7/UndelayArchitecture.png" alt="Proposed architecture">
 
-# Database info
+Note the proposed interactions with the Database above, such as the addition of various user submitted reports and new users to the database along with the displaying of aforementioned reports and the Bookmarked user routes, which would be displayed on a more user specific page.
 
-possibly a databse model?
+# Database information
+
+We're going to use MongoDB for our database which is intended to be used to store all of the user submitted data. Such as the reports from the delay reporting page, the login user details given upon signup and the bookmarking system utilised. In addition to this data the Map page also pulls delay  and route informaiton from the database to be overlayed onto the map
 
 # Node and express things?
 
