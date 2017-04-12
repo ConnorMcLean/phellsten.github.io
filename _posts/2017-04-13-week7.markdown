@@ -20,6 +20,8 @@ Note the proposed interactions with the Database above, such as the addition of 
 
 We're going to use MongoDB for our database which is intended to be used to store all of the user submitted data. Such as the reports from the delay reporting page, the login user details given upon signup and the bookmarking system utilised. In addition to this data the Map page also pulls delay and route informaiton from the database to be overlayed onto the map.
 
+<img src="{{ site.baseurl }}/images/blog/Week7/erd.png" alt="ERD">
+
 # Node and express
 
 We have implemented a basic Node application that uses MongoDB to store user submitted data, which is viewable at <a href="http://undelay.me:3001/delay">http://undelay.me:3001/delay</a>
