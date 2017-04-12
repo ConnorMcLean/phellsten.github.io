@@ -25,15 +25,24 @@ We're going to use MongoDB for our database which is intended to be used to stor
 # Timeline of Project Tasks:
 
 Timeline of Project Tasks:
-Implement Node or similar server service? - Week 8
-Database - Implement MongoDB -  Week 8
-Issue submission form - with connection to database - Week 8/9
-Login/User/Account Stuff - Week 9
-Displaying Issues (Table/Map) - Week 10/11
-User Subscription - Week 11 (If time permits)
-Notification Service - Week 11 (If time permits)
+
+- Implement Node or similar server service? - Week 8
+- Database - Implement MongoDB -  Week 8
+- Issue submission form - with connection to database - Week 8/9
+- Login/User/Account Stuff - Week 9
+- Displaying Issues (Table/Map) - Week 10/11
+- User Subscription - Week 11 (If time permits)
+- Notification Service - Week 11 (If time permits)
 
 
-<img src="{{ site.baseurl }}/images/blog/Week7/gant.jpg" alt="gant chart">
+<img src="{{ site.baseurl }}/images/blog/Week7/Gant.jpg" alt="gant chart">
 
 # Division of Labour:
+
+- Implement Node or similar server service? - Week 8 - Everyone
+- Database - Implement MongoDB -  Week 8 - Everyone
+- Issue submission form - with connection to database - Week 8/9 - Paul & Sam
+- Login/User/Account Stuff - Week 9 (Connor, Rory)
+- Displaying Issues (Table/Map) - Week 10/11 - Paul & Sam (Table) Cameron (Map)
+- User Subscription - Week 11 (If time permits) (Connor, Rory)
+- Notification Service - Week 11 (If time permits) (Connor, Rory)
