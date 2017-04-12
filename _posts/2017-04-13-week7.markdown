@@ -4,16 +4,15 @@ title:      "Week 7"
 subtitle:   "Proposed Architecture"
 date:       2017-04-13
 author:     "Road to Nowhere"
-header-img: "img/post-bg-05.jpg"
+header-img: "img/post-bg-06.jpg"
 ---
-
-Basic Template
 
 # Proposed interactions
 
 Below is a diagram for our website which contains the proposed interactions within the site. As you saw last week we already use the public transport victoria data API to fill in our tables along with the map APi. However this week the interactions we're proposing are more on the database interaction side of our website.
 
-<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/Week7/UndelayArchitecture.png" alt="Proposed architecture">
+<img src="{{ site.baseurl }}/images/blog/Week7/UndelayArchitecture.png" alt="Proposed architecture">
+
 
 Note the proposed interactions with the Database above, such as the addition of various user submitted reports and new users to the database along with the displaying of aforementioned reports and the Bookmarked user routes, which would be displayed on a more user specific page.
 
