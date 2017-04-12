@@ -24,7 +24,7 @@ We're going to use MongoDB for our database which is intended to be used to stor
 
 # Node and express
 
-We have implemented a basic Node application that uses MongoDB to store user submitted data, which is viewable at <a href="http://undelay.me:3001/delay">http://undelay.me:3001/delay</a>
+We have implemented a basic Node application that uses MongoDB to store user submitted data, which is viewable at <a href="http://undelay.me">http://undelay.me</a>
 
 # Timeline of Project Tasks:
 
