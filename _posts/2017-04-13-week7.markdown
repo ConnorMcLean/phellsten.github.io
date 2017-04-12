@@ -1,1 +1,10 @@
-Placehold
+---
+layout:     post
+title:      "Week 7"
+subtitle:   "Proposed Architecture"
+date:       2017-04-13
+author:     "Road to Nowhere"
+header-img: "img/post-bg-05.jpg"
+---
+
+Placeholder
