@@ -12,6 +12,7 @@ Basic Template
 # Proposed interactions with the site
 
 
+<img src="{{ site.baseurl }}/images/blog/Week7/UndelayArchitecture.jpg" alt="Proposed architecture">
 
 # Database info
 
