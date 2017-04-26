@@ -4,7 +4,7 @@ title:      "Week 8"
 subtitle:   "Vertical Slice Prototype"
 date:       2017-04-27
 author:     "Road to Nowhere"
-header-img: "img/mcg.jpg"
+header-img: "img/mcg.JPG"
 ---
 
 
