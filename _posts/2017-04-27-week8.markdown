@@ -1,0 +1,35 @@
+---
+layout:     post
+title:      "Week 8"
+subtitle:   "Vertical Slice Prototype"
+date:       2017-04-27
+author:     "Road to Nowhere"
+header-img: "img/mcg.jpg"
+---
+
+
+<img src="{{ site.baseurl }}/img/mdb.png" alt="mdb">
+MongoDB
+The top level of the mean stack, Mongo is what we have chosen as our database option to keep schemas of JSONs for our user entered data.
+<img src="{{ site.baseurl }}/img/mongcode.png" alt="mongcode">
+
+<img src="{{ site.baseurl }}/img/notsec.png" alt="notsec">
+
+GETTING SECURE
+
+DigitalOcean provided the solution for our SSL/HTTPS security certificate. Through a tedious series of commands to install NGINX, creating and using certificates
+ configuring domain/DNS details etc we were able to move our site to a secure domain. 
+
+https://undelay.me/
+~ unDelay now with extra security!
+
+<img src="{{ site.baseurl }}/img/ming.png" alt="mingcode">
+
+This move was not only for security but certain browsers including Chrome often had issues with certain content not being allowed by default
+ without an SSL (Secure Socket Layer).
+ 
+ Express
+ Below are some examples of routers by Express to connect to out database. 
+
+<img src="{{ site.baseurl }}/img/expcode.png" alt="expcode">
+
