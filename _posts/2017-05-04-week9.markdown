@@ -17,23 +17,21 @@ Here is our risk asessment table below;
 
 <img src="{{ site.baseurl }}/images/blog/week9/ImprovRiskTable.png" alt="Risk Table">
 
-# How we'eve managed to prevent some of these etc
+# How we've managed to prevent some of these
 
-Input sanitisation,
+# Input sanitisation
 As NoSQL injections are possible when using such a database, user entered input will be sanitisied before being passed to any NoSQL based databases. Our user input is shielded from direct communication to the database by design, however you can never be too careful. 
 
-Permisisons,
+# Permisisons
 Only certain team members have access to certain aspects of the server and underlying code. Limiting who can modify and control code and data helps prevent not only potential malicious behaviour but also any possibly mistakes overlapping access can cause.
 
-Back ups,
+# Back ups
 Almost all serious risks we have been able to identify can be either prevented or at very least minimized with regular back ups. By virtue of using Github any possible concerns that may come up can be rolled back to a point before the concern arose.
 
-Notifications and warnings, 
+# Notifications and warnings
 More specific concerns relating to location information, such as large ranges when computing coordinates are hard to avoid with the tools we have avaiable. In such cases we would aim to minimise the impact rather than attempt to prevent it. In the case a users location range is quite large they would be notified or warned that the input and output of the system may not reflect what is intented.
 
-Securing compromised user data, 
+# Securing compromised user data
 As mentioned above issues like these inherently lie outside the scope of things we can prevent, so again we wold aim to detect the trigger for these risks as soon as possible and notify affected users promptly and follow earlier mentioned techniques to restore anything that may have been affected within the system.
 
 Additional prevention methods will rely on common sense and predicting possible problems that may arise as they do and acting on any unforeseen issues promptly.
-
-etc
