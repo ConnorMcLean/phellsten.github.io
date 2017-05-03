@@ -15,7 +15,7 @@ So for this week we were asked to show a risk assessment table, which is relevan
 
 Here is our risk asessment table below;
 
-<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/week9/Risk%20assessment.png" alt="RiskTable">
+<img src="{{ site.baseurl }}/images/blog/Week9/ImprovRiskTable.png" alt="Risk Table">
 
 # How we'eve managed to prevent some of these etc
 
