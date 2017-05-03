@@ -15,7 +15,7 @@ So for this week we were asked to show a risk assessment table, which is relevan
 
 Here is our risk asessment table below;
 
-<img src="{{ site.baseurl }}/images/blog/Week9/ImprovRiskTable.png" alt="Risk Table">
+<img src="{{ site.baseurl }}/images/blog/week9/ImprovRiskTable.png" alt="Risk Table">
 
 # How we'eve managed to prevent some of these etc
 
