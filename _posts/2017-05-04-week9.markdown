@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "Week 9"
+subtitle:   "Risk Assessment"
+date:       2017-05-04
+author:     "Road to Nowhere"
+header-img: "img/mcg.JPG"
+---
+
+# Risk assessment table
+
+Currently in excel document
+
+# How we'eve managed to prevent some of these etc
+
+input sanitisation
+permisisons
+etc
