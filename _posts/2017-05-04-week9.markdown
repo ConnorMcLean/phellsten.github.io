@@ -7,9 +7,13 @@ author:     "Road to Nowhere"
 header-img: "img/mcg.JPG"
 ---
 
+So for this week we were asked to show a risk assessment table, which is relevant to our website and some ways in which we have removed the risk they possess.
+
 # Risk assessment table
 
-Currently in excel document
+Here is our risk asessment table below;
+
+<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/week9/Risk%20assessment.png" alt="RiskTable">
 
 # How we'eve managed to prevent some of these etc
 
