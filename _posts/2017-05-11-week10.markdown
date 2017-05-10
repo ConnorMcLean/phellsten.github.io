@@ -24,25 +24,29 @@ We mainly just had the users navigating the pages, testing out the links and loo
 # Results
 
 About Page:
-<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/week10/about.PNG" alt="About Page">
+<img src="{{ site.base-url }}/images/blog/week10/about.PNG" alt="About Page">
 
 
 Most of our test users commented on the oddity of our front page, talking about how the map currently showed nothing of interest beyond working in general and that the information boxes were empty labels. A couple users mentioned that they appreciated the minimilistic visual it showed, whether that was because it lacked data at the time will require more user evaluation later. Most users mentioned that the about page was nothing special and that while it served its purpose it could use better overall content as it lacks depth at the current time.
 
 Landing Page:
-<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/week10/Home.PNG" alt="Landing Page">
+<img src="{{ site.baseurl }}/images/blog/week10/Home.PNG" alt="Landing Page">
 
 
 Most users found the sign-up and subsequent profile page interesting, however the lack of current filtering for the email address was shown by some users, having ignored email format and still successfully making an account. The profile page, was talked by our users in relation to how bare it was how it was lacking content due to being incomplete, one also commented on the password representation, stating it should just be removed in general as the current shown password just confused said user.
 
+Profile page:
+<img src="{{ site.baseurl }}/images/blog/week10/ProfileTemp.PNG" alt="Profile Page">
+
+
 For the report page, the only critisicm it recieved was more visually impresive textboxes, spanning multiple lines as oppossed to one, as well as ideally an auto-complete system for the route and location, something which was already under consideration amongst the group. Most users found the map page interesting, however some commented on the sharpness of the map in contrast to the curved rounded edges used everywhere else on the site, another user also commented on the filter usage, stating that it would be nice if the tram filters were seperate colours similar to the train filters in order to more easily discern the routes of different tram lines.
 
 Report page:
-<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/week10/Report.PNG" alt="Report Page">
+<img src="{{ site.baseurl }}/images/blog/week10/Report.PNG" alt="Report Page">
 
 
 Map page
-<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/week10/ColourIssueTram.PNG" alt="Map Page">
+<img src="{{ site.baseurl }}/images/blog/week10/ColourIssueTram.PNG" alt="Map Page">
 
 
 Most users however had a plethora of issues with our issues representation, something which is already under heavy discussion amongst the group. Most comments were centered around the visual way we were displaying the data, rather than the data itself, one user even stating 'issues table is pretty ugly'. Some problems brought up by our users was the prescence of the filters at the bottom of the table and not the top, citing that people may miss the filters at the bottom of the page, whilst another commented on the column filtering graphic, stating that the rounded edges clipped the arrows out of the table, looking unpleasant compared to the rest. 
@@ -50,11 +54,11 @@ Most users however had a plethora of issues with our issues representation, some
 One issue was raised about the data, more specifically the time column and there is unnecessary fluff which makes it impossible to read at a glance and obscures the actual value. Another was that null values should be replaced with N/A for general public usage as it isn't a common term, along with stating the rows should be colour coded for ease of distinction between planned and current works. We only had a single user on mobile,  but another problem raised was that the formatting causes issues on mobile, diplaying data in overflowing rows. The yellow background was also heavily criticised where it was found, but that is only temporary at the curren point in time and will be changed shortly.
 
 Issues page:
-<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/week10/Issues%20top.PNG" alt="Issues Page">
+<img src="{{ site.baseurl }}/images/blog/week10/Issues%20top.PNG" alt="Issues Page">
 
 
 Bottom of table:
-<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/week10/Issues%20bot.PNG" alt="Bottom of table">
+<img src="{{ site.baseurl }}/images/blog/week10/Issues%20bot.PNG" alt="Bottom of table">
 
 
 
