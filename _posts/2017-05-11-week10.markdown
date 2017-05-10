@@ -24,7 +24,7 @@ We mainly just had the users navigating the pages, testing out the links and loo
 # Results
 
 About Page:
-<img src="{{ site.baseurl }}/images/blog/week10/about.PNG" alt="About Page">
+<img src="{{ site.base-url }}/images/blog/week10/about.PNG" alt="About Page">
 
 
 Most of our test users commented on the oddity of our front page, talking about how the map currently showed nothing of interest beyond working in general and that the information boxes were empty labels. A couple users mentioned that they appreciated the minimilistic visual it showed, whether that was because it lacked data at the time will require more user evaluation later. Most users mentioned that the about page was nothing special and that while it served its purpose it could use better overall content as it lacks depth at the current time.
