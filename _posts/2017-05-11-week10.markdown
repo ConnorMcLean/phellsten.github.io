@@ -1,1 +1,65 @@
+---
+layout:     post
+title:      "Week 10"
+subtitle:   "Evaluation Reports"
+date:       2017-05-04
+author:     "Road to Nowhere"
+header-img: "img/roo.JPG"
+---
+
+# Evaluation Reports - Week 10
+
+# The Question
+
+The question we decided to ask the users testing our site, was how intuitive did they find their usage of the site and whether or not it conveyed the information in a useful and convenient manner. As a result of this quesiton we mainly had our test users evaluating how we convey the data shown on the website and how they felt it could be improved.
+
+# Participants
+
+The participants used for this study, were all around 18-20 years of age. Most of the test users were uni students from both monash and melbourne universities. One was also a design student which heavily criticsed the visual representation of most pages he looked at, specifically the issues representaiton page, which had already been elected for renovation. We also had one user testing out a mobile version of the site, which had a few issues of its own.
+
+# The task
+
+We mainly just had the users navigating the pages, testing out the links and looking for any broken data, or complaints and ways we could possibly improve things that they had stumbled across. Generally most comments were about the visual representation of the data we have access to, along with filtering issues and the lack of finished profile page.
+
+# Results
+
+About Page:
+# ABOUT IMAGE
+
+Most of our test users commented on the oddity of our front page, talking about how the map currently showed nothing of interest beyond working in general and that the information boxes were empty labels. A couple users mentioned that they appreciated the minimilistic visual it showed, whether that was because it lacked data at the time will require more user evaluation later. Most users mentioned that the about page was nothing special and that while it served its purpose it could use better overall content as it lacks depth at the current time.
+
+Landing Page:
+# Home image
+
+Most users found the sign-up and subsequent profile page interesting, however the lack of current filtering for the email address was shown by some users, having ignored email format and still successfully making an account. The profile page, was talked by our users in relation to how bare it was how it was lacking content due to being incomplete, one also commented on thge password representation, stating it should just be removed in general as the current shown password just confused said user.
+
+Signup (Right) and subsequent profile page (Left):
+# Sign up page/profile
+
+For the report page, the only critisicm it recieved was more visually impresive textboxes, spanning multiple lines as oppossed to one, as well as ideally an auto-complete system for the route and location, something which was already under consideration amongst the group. Most users found the map page interesting, however some commented on the sharpness of the map in contrast to the curved rounded edges used everywhere else on the site, another user also commented on the filter usage, stating that it would be nice if the tram filters were seperate colours similar to the train filters in order to more easily discern the routes of different tram lines.
+
+Report page:
+# Report Image
+
+Map page
+# Map image
+
+Most user however had a plethora of issues with our issues representation, something which is already under heavy discussion amongst the group. Most comments were centered around the visual way we were displaying the data, rather than the data itself, on user even stating 'issues table is pretty ugly'. Some problems brought up by our users was the prescence of the filters at the bottom of the table and not the top, citing that people may miss the filters at the bottomof the page, whilst another commented on the column filtering graphic, stating that the rounded edges clipped the arrows out of the table, looking unpleasant compared to the rest. 
+
+One issue was raised about the data, more specifically the time column and there is unnecessary fluff which makes it impossible to read at a glance and obscures the actual value. Another was that null values should be replaced with N/A for general public usage as it isn't a common term, along with stating the rows should be colour coded for ease of distinction between planned and current works. We only had a single user on mobile,  but another problem raised was that the formatting causes issues on mobile, diplaying data in overflowing rows.
+
+Issues page
+# Issues image
+
+Bottom of table:
+# Issues image bottom
+
+
+# Reflection and Modifications
+Most of the problems raised by our users center around the issues page, something which we had already been thinking of ways to renovate for easy navigation and visually pleasant representation. However the multiple issues raised about the data shows that a form of pre-processing is needed before displaying it on our page, specifically a cleanup of the time category.
+
+The issue of auto-complete which had been raised about the reporting page had already been considered and we are currently looking for ways to possibly incorporate such a useful function into the page, as it would also aid in the processing of reports. The profile page is also still under constricution along with the Landing page, which requires multiple improvements. A filtering system for email format is also currently under implementation as well.
+
+# Summary paragraph pls anyone
+
 
