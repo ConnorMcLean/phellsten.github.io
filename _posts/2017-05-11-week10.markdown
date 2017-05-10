@@ -49,7 +49,7 @@ Most user however had a plethora of issues with our issues representation, somet
 One issue was raised about the data, more specifically the time column and there is unnecessary fluff which makes it impossible to read at a glance and obscures the actual value. Another was that null values should be replaced with N/A for general public usage as it isn't a common term, along with stating the rows should be colour coded for ease of distinction between planned and current works. We only had a single user on mobile,  but another problem raised was that the formatting causes issues on mobile, diplaying data in overflowing rows. The yellow background was also heavily criticised where it was found, but that is only temporary at the curren point in time and will be changed shortly.
 
 Issues page:
-<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/week10/Issues%20top.PNG" alt="Issues page>
+<img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/week10/Issues%20top.PNG" alt="Issues page">
 
 Bottom of table:
 <img src="https://github.com/phellsten/phellsten.github.io/blob/master/images/blog/week10/Issues%20bot.PNG" alt="Bottom of table">
